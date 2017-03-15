@@ -8,6 +8,7 @@ end
 gem 'rails', '~> 5.0.2'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
+gem 'reform', '~> 2.3.0.rc1'
 gem 'reform-rails'
 gem 'simple_form'
 gem 'dry-validation'
